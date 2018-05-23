@@ -1,9 +1,10 @@
 .column{
   width: 500px;
   float: left;
-  padding: 8em;
+  padding: 2em;
   text-align: center;
   font-size: 30px;
+  margin: 175px;
 }
 .headings{
   text-align: center;
